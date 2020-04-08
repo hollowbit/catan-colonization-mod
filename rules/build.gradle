@@ -1,0 +1,7 @@
+plugins {
+  id "de.fntsoftware.gradle.markdown-to-pdf" version "1.1.0"
+}
+
+readmeToPdf {
+    outputFile = "build/Catan Colonization Mod (v$version).pdf"
+}
