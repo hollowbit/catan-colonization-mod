@@ -1,7 +1,24 @@
-plugins {
+/*plugins {
   id "de.fntsoftware.gradle.markdown-to-pdf" version "1.1.0"
 }
 
 readmeToPdf {
     outputFile = "build/Catan Colonization Mod (v$version).pdf"
 }
+*/
+
+plugins {
+    id 'nl.martijndwars.markdown' version '0.2.0'
+}
+
+compileMarkdownToHtml {
+    inputFile = file("README.md")
+}
+
+compileHtmlToPdf {
+    outputFile = file("$buildDir/README.pdf")
+}
+
+compileHtmlToPdf.inputFile = compileMarkdownToHtml.outputFile
+compileMarkdownToHtml.outputFile = file("$buildDir/text.html")
+
