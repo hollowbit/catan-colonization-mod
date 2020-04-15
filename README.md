@@ -3,7 +3,7 @@ Mod for the Settlers of Catan boardgame. All you need to play is the base Catan 
 
 ## Rules
 
-Rules can be read in [](RULES.md).
+Rules can be read in [RULES.md](RULES.md).
 
 ### Building Rules Documents
 You can generate a PDF of the rules by running `./buildpdf.sh`. This requires `pandoc` and a tex application (On Arch Linux I use `texlive-core`).
