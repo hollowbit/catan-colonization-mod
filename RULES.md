@@ -10,44 +10,19 @@ Unless specified in this rulesheet, all rules in the original Catan game still a
 
 The empires of the world have discovered a new prosperous land. With the hope of bringing new riches to their empires, they send settlers to establish new profitable colonies.
 
-![Overview of Game](overview.jpg)
+![Overview of Game](img/overview.jpg)
 
 ## Termonology Changes
 
-<table>
-<tr>
-    <th>Original Term</th>
-    <th>New Term</th>
-</tr>
-<tr>
-    <td>Settlement</td>
-    <td>Trade Post</td>
-</tr>
-<tr>
-    <td>City</td>
-    <td>Colony</td>
-</tr>
-<tr>
-    <td>Robber</td>
-    <td>No longer exists. Token becomes the Native Settlement</td>
-</tr>
-<tr>
-    <td>Progress Cards (Monopoly, Year of Plenty, Road Building development cards)</td>
-    <td>Colonization Packages</td>
-</tr>
-<tr>
-    <td>Harbour Marker</td>
-    <td>Primary Export</td>
-</tr>
-<tr>
-    <td>Longest Road</td>
-    <td>Most Extensive Trade Network</td>
-</tr>
-<tr>
-    <td>Victory Point Cards (Library, Great Hall, etc. development cards) </td>
-    <td>Specialty Building Cards</td>
-</tr>
-</table>
+| Original Term | New Term |
+| ------------- | -------- |
+| Settlement    | Trade Post |
+| City | Colony |
+| Robber | No longer exists. Token becomes the Native Settlement |
+| Progress Cards (Monopoly, Year of Plenty, Road Building development cards) | Colonization Packages |
+| Harbour Marker | Primary Export |
+| Longest Road | Most Extensive Trade Network
+| Victory Point Cards (Library, Great Hall, etc. development cards) | Specialty Building Cards |
 
 ## Rule Changes
 
@@ -55,7 +30,7 @@ The empires of the world have discovered a new prosperous land. With the hope of
 - Harbours printed on the game board are ignored
 - Multiple roads can be placed between intersections (see image)
 
-![Multiple roads in one space](multiple_roads.jpg)
+![Multiple roads in one space](img/multiple_roads.jpg)
 
 - To trade with a player, you must have a road connected to one of their trade posts or colonies
 - If you run out of roads, you can remove old ones to use when buying a new one
@@ -66,7 +41,7 @@ The empires of the world have discovered a new prosperous land. With the hope of
 - Separate 3 types of development cards
 - Randomly place the Native Settlement at a hex intersection around the desert tile (pick one at random if you are using the expansion). Use a dice roll to pick which of the 6 intersections around the desert tile to place the Native Settlement on (see image).
 
-![Native Settlement placement](native_settlement.jpg)
+![Native Settlement placement](img/native_settlement.jpg)
 
 ## Game Start
 
@@ -105,7 +80,7 @@ When you establish your first trade post, you can select one of the available Co
 
 Each colony can have 1 specialty building attached to it. Buy them for 2 wood and 3 brick. When a player buys one, they can pick which specialty building card they want and attach a Trade Post marker to the colony (see image). They are worth 1 VP each. Maximum of 5 available.
 
-![Specialty Building Placement](specialty_building.jpg)
+![Specialty Building Placement](img/specialty_building.jpg)
 
 ### Most Extensive Trade Network
 
@@ -119,7 +94,7 @@ At the end of their turn, players can attempt to create a blockade with a road t
 
 The player trying to create the blockade is the "attacker". The other players with roads there are the "defenders". The defending player with the largest army (most knights) will battle with the attacker. The attacker and defender do one dice roll for each knight they have, plus 1 extra dice roll for the defender. Sum the dice roles for each. Whoever has the highest count wins. Attacker wins ties. If the attacker wins, a blockade is placed (see image) and the attacker loses 1 knight. If the defender wins, nothing happens.
 
-![Blockade Example](blockade.jpg)
+![Blockade Example](img/blockade.jpg)
 
 Players can attack a blockade on their road at the end of their turn by entering a blockade battle. Same rules as when attempting to make a blockade, except the player defending the blockade wins ties and the player attacking the blockade gets an extra dice role. If the attacker wins, the blockade is removed and the blockading road is placed back to the way it originally was. If the blockade owner wins, the blockade stays. Players can offer to remove blockades as part of a trade. Blockade owners may even charge players tarifs to allow trade to continue.
 
