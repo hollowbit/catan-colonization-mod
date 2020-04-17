@@ -8,7 +8,7 @@ Unless specified in this rulesheet, all rules in the original Catan game still a
 
 ## Scenario
 
-The empires of the world have discovered a new prosperous land. With the hope of bringing new riches to their empires, they send settlers to establish new profitable colonies.
+The empires of the world have discovered a new prosperous land. With the hope of bringing riches to their empires, they send settlers to establish profitable colonies.
 
 ![Overview of Game](img/overview.jpg)
 
