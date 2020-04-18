@@ -28,20 +28,24 @@ The empires of the world have discovered a new prosperous land. With the hope of
 
 - Buying development cards now just means buying knights
 - Harbours printed on the game board are ignored
-- Multiple roads can be placed between intersections (see image)
+- Multiple roads can be placed between intersections (see Figure 2)
 
 ![Multiple roads in one space](img/multiple_roads.jpg)
 
 - To trade with a player, you must have a road connected to one of their trade posts or colonies
 - If you run out of roads, you can remove old ones to use when buying a new one
-- There is no more robber, but rolling a 7 still requires players to follow the discard rule, except it only applies to players with more than 12 cards in their hand
+- There is no more robber, but rolling a 7 still requires players to follow the discard rule
+- All players can trade any resource at 3:1, instead of the default 4:1
 
 ## Game Setup
 
-- Separate 3 types of development cards
-- Randomly place the Native Settlement at a hex intersection around the desert tile (pick one at random if you are using the expansion). Use a dice roll to pick which of the 6 intersections around the desert tile to place the Native Settlement on (see image).
+- Do not place the hexes on the inside of the island yet (see Figure 3).
 
-![Native Settlement placement](img/native_settlement.jpg)
+- Separate 3 types of development cards
+- Randomly place the Native Settlement at a hex intersection around the desert tile (pick one at random if you are using the expansion). Use a dice roll to pick which of the 6 intersections around the desert tile to place the Native Settlement on (see Figure 3).
+
+![Island Start Layout Example](img/start_map.jpg)
+
 
 ## Game Start
 
@@ -61,24 +65,37 @@ Give each player 2 resource cards corresponding to the tiles next to their colon
 
 ## Rules
 
+### Discovering Hexes
+
+Since not all hexes are visible at game start anymore, players must explore the map by placing roads and building trade posts to discover what the missing hexes are. When a hex is "discovered", take one of the remaining hexes from the stack and place it there. Take a random number token from the remaining ones and place it on the new hex.
+
+#### Discovering with roads
+
+A hex can be discovered if a player builds a road alongside it (see Figure 4).
+
+![Example of a hex (wood with #9) being discovered by a road](img/road_hex_discover.jpg)
+
+#### Discovering with Trade Posts
+
+A hex can be discovered if a player builds a Trade Post on a hex intersection adjacent to the it (see Figure 5).
+
+![Example of a hex (wood with #6) being discovered by a road](img/trade_post_hex_discover.jpg)
+
 ### Imperial Stimulus
 
 To aid struggling colonies, once all players, except for 2, have built their first trade post, the 2 who have not yet built their trade post will each receive 1 of the remaining Colonization Packages. If playing with the 5/6 player expansion, do the same except with the remaining 3 players, instead of just 2. 
 
 ### Native Settlement
 
-Connecting a road to a Native Settlement lets you:
-
-- Buy knights for 1 ore and 1 sheep
-- Trade any resource at 3:1
+Connecting a road to a Native Settlement lets you buy knights for 1 ore and 1 sheep each. Unlike Trade Posts and Colonies, you do not need to follow the Distance Rule with native settlements.
 
 ### Colonial Export
 
-When you establish your first trade post, you can select one of the available Colonial Exports to the empire. Every time you build a new trade post, you can change your Colonial Export from the remaining available ones. You may also chose one of the 3:1 generic trades, if you want.
+When you establish your first trade post, you can select one of the available Colonial Exports to the empire. Every time you build a new trade post, you can change your Colonial Export from the remaining available ones.
 
 ### Specialty Building Cards
 
-Each colony can have 1 specialty building attached to it. Buy them for 2 wood and 3 brick. When a player buys one, they can pick which specialty building card they want and attach a Trade Post marker to the colony (see image). They are worth 1 VP each. Maximum of 5 available.
+Each colony can have 1 specialty building attached to it. Buy them for 2 wood and 3 brick. When a player buys one, they can pick which specialty building card they want and attach a Trade Post marker to the colony (see Figure 6). They are worth 1 VP each. Maximum of 5 available.
 
 ![Specialty Building Placement](img/specialty_building.jpg)
 
@@ -92,7 +109,7 @@ At the end of their turn, players can attempt to create a blockade with a road t
 
 #### Blockade Battles
 
-The player trying to create the blockade is the "attacker". The other players with roads there are the "defenders". The defending player with the largest army (most knights) will battle with the attacker. The attacker and defender do one dice roll for each knight they have, plus 1 extra dice roll for the defender. Sum the dice roles for each. Whoever has the highest count wins. Attacker wins ties. If the attacker wins, a blockade is placed (see image) and the attacker loses 1 knight. If the defender wins, nothing happens.
+The player trying to create the blockade is the "attacker". The other players with roads there are the "defenders". The defending player with the largest army (most knights) will battle with the attacker. The attacker and defender do one dice roll for each knight they have, plus 1 extra dice roll for the defender. Sum the dice roles for each. Whoever has the highest count wins. Attacker wins ties. If the attacker wins, a blockade is placed (see Figure 7). Win or lose, the attacker loses 1 knight. If the defender wins, nothing happens.
 
 ![Blockade Example](img/blockade.jpg)
 
